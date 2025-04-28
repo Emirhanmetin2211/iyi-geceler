@@ -8,6 +8,6 @@
     <h1>Hoşgeldiniz!</h1>
     <p>Diğer sayfaya gitmek için aşağıdaki linke tıklayın:</p>
 
-    <a href="iyi geceeler/index.html">Diğer Sayfaya Git</a>
+    <a href="iyi geceler/index.html">Diğer Sayfaya Git</a>
 </body>
 </html>
